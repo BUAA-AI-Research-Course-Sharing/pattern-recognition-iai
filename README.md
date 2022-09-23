@@ -2,4 +2,4 @@
 
 ## Project 
 
-- [](face recognition)
+- [face recognition](https://github.com/ethan-iai/face-recognition-iai)
